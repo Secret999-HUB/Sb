@@ -1,0 +1,15 @@
+{
+  "name": "slap-signal-hub",
+  "version": "1.0.0",
+  "description": "Secret X💢 - Slap Battles Main/Helper signal relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
